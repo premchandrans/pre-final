@@ -19,4 +19,10 @@ we can commit and update in the local repo, after confirming only we will push t
 LR - Git
 RR - GIT HUB
 
+Branching 
+It's nonthing, for master there will be in branch it's called branching..!
+In the real time most of the time commit will not added in master, it will mostly added in branching.
+every thing is done, Maker and checker will approve the code after the checking, then only we will commit to master.
+Master is only accessable by senior person or admin person
+
 
