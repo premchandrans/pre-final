@@ -25,4 +25,12 @@ In the real time most of the time commit will not added in master, it will mostl
 every thing is done, Maker and checker will approve the code after the checking, then only we will commit to master.
 Master is only accessable by senior person or admin person
 
+soomth Mergering
+After Developer put and code and get approved from maker and checker, then it's need to be merge to master branch. 
+before mergering make sure we checkout to master branch because merge need to do in master branch only.
+
+after merging, we can see both the master initial code and devloper code will merge into single with out any conflits. 
+
+This is called smooth merging
+
 
