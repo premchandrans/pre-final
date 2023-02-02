@@ -34,3 +34,8 @@ after merging, we can see both the master initial code and devloper code will me
 This is called smooth merging
 
 Conflict Merge
+
+If some developer directly access the master and put some worng codes however in the meantime another developer put codes in dev and get approval and tried to merge with master. 
+at this time, it will through erros as merge conflict, because already one commit has been updated via master.
+
+For this we need to install merge conflict tools to arrest the issue.
