@@ -1,0 +1,22 @@
+Git 
+Git is the version controlling system or source code mangement code. 
+it helps to versioning the codes to identify or issue.
+It has 
+local version control system
+CVCS-Centralized Version control system
+Distributed version control system
+
+Locan means, it like laptop
+
+CVCS
+It have one common repository, all the developer put commit and update in the repository,
+disadvantage: slow latency, Dependency of contiunes internet
+
+Distributed version control system
+
+we can commit and update in the local repo, after confirming only we will push the code to remote repo
+
+LR - Git
+RR - GIT HUB
+
+
