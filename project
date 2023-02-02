@@ -39,3 +39,42 @@ If some developer directly access the master and put some worng codes however in
 at this time, it will through erros as merge conflict, because already one commit has been updated via master.
 
 For this we need to install merge conflict tools to arrest the issue.
+
+Cherry-pick
+clone
+commands
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
